@@ -12,5 +12,5 @@
 
 
 
-![预览效果](https://github.com/vampire184/ParallelView/blob/master/Video_20200622_051638_711.gif)
+![预览效果](https://github.com/vampire184/ParallelView/blob/master/ScreenRecord.gif)
 
